@@ -24,11 +24,7 @@
 <h2>Tools and Techs Used by me 👇</h2>
 <br/>
 <div>
-    <!-- React -->
     <img style="margin-right: 20px" align="left" alt="React" width="40px" src="./svgs/react-js.svg" />
-    <!-- Next Js -->
-    <img style="margin-right: 20px;" align="left" alt="Next js" width="40px" src="./svgs/nextjs.svg"/>
-    <!-- Redux -->
     <img style="margin-right: 20px;" align="left" alt="Redux" width="40px" src="./svgs/redux.svg" />
     <img style="margin-right: 20px;" align="left" alt="Node Js" width="60px" src="./svgs/node.svg" />
     <img style="margin-right: 20px" align="left" alt="HTML" width="40px" src="./svgs/html5.svg" />
