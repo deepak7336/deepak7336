@@ -43,7 +43,7 @@
 <br/>
 <br/>
 
-<!-- Lang used status . -->
+<!-- Lang used status . .-->
 <h2>⚡ Top languages:</h2>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deepak7336&langs_count=10&theme=light&layout=compact" />
