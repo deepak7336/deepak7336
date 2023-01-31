@@ -46,4 +46,4 @@
 <!-- Lang used status -->
 <h2>⚡ Top languages:</h2>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak7336&langs_count=10&theme=light&layout=compact" alt="Deepak top languages" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak7336&langs_count=10&theme=light&layout=compact" alt="Deepak top languages" />
